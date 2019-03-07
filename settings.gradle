@@ -1,0 +1,4 @@
+rootProject.name = 'Spring-Boot-Learning'
+include 'app-shopping'
+include 'oauth2-server'
+
